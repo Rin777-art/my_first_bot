@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ВСТАВЬ СВОЙ ТОКЕН СЮДА
-TOKEN = "8796643561:AAH7-GHtPCpooQ5j02XYc30vgrtK-Qiffx4"
+TOKEN = "8796643561:AAGBtBS9k7woEACDgShpvnnH7d52uu0xRGc"
 
 # Включаем логирование (чтобы видеть ошибки)
 logging.basicConfig(level=logging.INFO)
