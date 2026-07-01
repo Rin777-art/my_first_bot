@@ -4,8 +4,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-# ВСТАВЬ СВОЙ ТОКЕН СЮДА
-TOKEN = "8796643561:AAGBtBS9k7woEACDgShpvnnH7d52uu0xRGc"
+
 
 # Включаем логирование (чтобы видеть ошибки)
 logging.basicConfig(level=logging.INFO)
